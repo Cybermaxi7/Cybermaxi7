@@ -1,5 +1,28 @@
-# 💫 About Me:
-Hi there! 👋 I'm Moses Agbe, a passionate software developer from Nigeria with a deep love for coding and a commitment to a healthy lifestyle.<br><br>- 🌱 I'm currently working on:<br>  - Improving my skillset daily by building projects<br>- 🚀 I'm passionate about:<br>  - Front-end web development, creating beautiful and interactive user interfaces.<br>  - Exploring new technologies and learning about AI. <br>  - Email: maximusagbe@gmail.com<br>  - LinkedIn: https://www.linkedin.com/in/moses-agbe-b7766321b/<br>  - Twitter: https://twitter.com/Cybermaxi7<br>- 💬 Ask me about:<br>  - JavaScript, React, and Redux for web development.<br>  - Best practices for responsive design and accessibility.<br>  - Code optimization and performance tuning in large-scale applications.<br>  - My journey in tech, including how I started with minimal coding knowledge and navigated various jobs until I found my true passion as a software developer.<br>  - 😄 Pronouns: He/Him.<br>- ⚡ Fun fact:<br>  - I'm not just into coding; I'm also a fitness enthusiast! You'll often find me at the gym, lifting weights and pursuing a healthy lifestyle. 💪
+## About Me
+
+🌱 **Currently Working On:**
+- Improving my skillset daily by building projects.
+
+🚀 **Passionate About:**
+- Front-end web development, creating beautiful and interactive user interfaces.
+- Exploring new technologies and learning about AI.
+
+📫 **Contact Me:**
+- Email: [maximusagbe@gmail.com](mailto:maximusagbe@gmail.com)
+- LinkedIn: [Moses Agbe](https://www.linkedin.com/in/moses-agbe-b7766321b/)
+- Twitter: [@Cybermaxi7](https://twitter.com/Cybermaxi7)
+
+💬 **Ask Me About:**
+- JavaScript, React, and Redux for web development.
+- Best practices for responsive design and accessibility.
+- Code optimization and performance tuning in large-scale applications.
+- My journey in tech, including how I started with minimal coding knowledge and navigated various jobs until I found my true passion as a software developer.
+
+😄 **Pronouns:** He/Him.
+
+⚡ **Fun Fact:**
+- I'm not just into coding; I'm also a fitness enthusiast! You'll often find me at the gym, lifting weights and pursuing a healthy lifestyle. 💪
+
 
 
 ## 🌐 Socials:
