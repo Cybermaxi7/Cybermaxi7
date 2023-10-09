@@ -9,7 +9,7 @@
 
 📫 **Contact Me:**
 - Email: [maximusagbe@gmail.com](mailto:maximusagbe@gmail.com)
-- LinkedIn: [Moses Agbe](https:/www.linkedin.com/in/moses-agbe-b7766321b/)
+- LinkedIn: [Moses Agbe](https:/linkedin.com/in/moses-agbe-b7766321b/)
 - Twitter: [@Cybermaxi7](https://www.twitter.com/Cybermaxi7)
 
 💬 **Ask Me About:**
