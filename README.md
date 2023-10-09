@@ -10,7 +10,7 @@
 📫 **Contact Me:**
 - Email: [maximusagbe@gmail.com](mailto:maximusagbe@gmail.com)
 - LinkedIn: [Moses Agbe](https://www.linkedin.com/in/moses-agbe-b7766321b/)
-- Twitter: [@Cybermaxi7](https://twitter.com/Cybermaxi7)
+- Twitter: [@Cybermaxi7]
 
 💬 **Ask Me About:**
 - JavaScript, React, and Redux for web development.
