@@ -1,22 +1,24 @@
-## About Me
+## **About Me**  
 
-🌱 **Currently Working On:**
-- Improving my skillset daily by building projects.
+🌱 **Currently Working On:**  
+- Improving my skillset daily by building projects.  
 
-🚀 **Passionate About:**
-- Front-end web development, creating beautiful and interactive user interfaces.
-- Exploring new technologies and learning about AI.
+🚀 **Passionate About:**  
+- Front-end web development, creating beautiful and interactive user interfaces.  
+- Mobile app development with **React Native**.  
+- Exploring new technologies and learning about AI.  
 
-📫 **Contact Me:**
-- Email: [maximusagbe@gmail.com](mailto:maximusagbe@gmail.com)
-- LinkedIn: [Moses Agbe](https://linkedin.com/in/moses-agbe-b7766321b)
-- Twitter: [@Cybermaxi7](https://www.twitter.com/Cybermaxi7)
+📫 **Contact Me:**  
+- Email: [maximusagbe@gmail.com](mailto:maximusagbe@gmail.com)  
+- LinkedIn: [Moses Agbe](https://linkedin.com/in/moses-agbe-b7766321b)  
+- Twitter: [@Cybermaxi7](https://www.twitter.com/Cybermaxi7)  
 
-💬 **Ask Me About:**
-- JavaScript, React, and Redux for web development.
-- Best practices for responsive design and accessibility.
-- Code optimization and performance tuning in large-scale applications.
-- My journey in tech, including how I started with minimal coding knowledge and navigated various jobs until I found my true passion as a software developer.
+💬 **Ask Me About:**  
+- JavaScript, React, Redux for web development.  
+- React Native for mobile app development.  
+- Best practices for responsive design and accessibility.  
+- Code optimization and performance tuning in large-scale applications.  
+- My journey in tech, from starting with minimal coding knowledge to becoming a software developer.  
 
 😄 **Pronouns:** He/Him.
 
